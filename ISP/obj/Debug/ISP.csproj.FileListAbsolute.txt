@@ -1,0 +1,5 @@
+E:\C\MVC\Solid\ISP\bin\Debug\ISP.dll
+E:\C\MVC\Solid\ISP\bin\Debug\ISP.pdb
+E:\C\MVC\Solid\ISP\obj\Debug\ISP.dll
+E:\C\MVC\Solid\ISP\obj\Debug\ISP.pdb
+E:\C\MVC\Solid\ISP\obj\Debug\ISP.csprojAssemblyReference.cache

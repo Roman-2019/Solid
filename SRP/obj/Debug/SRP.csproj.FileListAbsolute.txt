@@ -1,0 +1,5 @@
+E:\C\MVC\Solid\SRP\obj\Debug\SRP.csprojAssemblyReference.cache
+E:\C\MVC\Solid\SRP\bin\Debug\SRP.dll
+E:\C\MVC\Solid\SRP\bin\Debug\SRP.pdb
+E:\C\MVC\Solid\SRP\obj\Debug\SRP.dll
+E:\C\MVC\Solid\SRP\obj\Debug\SRP.pdb

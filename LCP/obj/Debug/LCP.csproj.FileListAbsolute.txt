@@ -1,0 +1,5 @@
+E:\C\MVC\Solid\LCP\bin\Debug\LCP.dll
+E:\C\MVC\Solid\LCP\bin\Debug\LCP.pdb
+E:\C\MVC\Solid\LCP\obj\Debug\LCP.csprojAssemblyReference.cache
+E:\C\MVC\Solid\LCP\obj\Debug\LCP.dll
+E:\C\MVC\Solid\LCP\obj\Debug\LCP.pdb

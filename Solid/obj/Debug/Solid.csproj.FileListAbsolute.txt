@@ -1,0 +1,17 @@
+E:\C\MVC\Solid\Solid\bin\Debug\Solid.exe.config
+E:\C\MVC\Solid\Solid\bin\Debug\Solid.exe
+E:\C\MVC\Solid\Solid\bin\Debug\Solid.pdb
+E:\C\MVC\Solid\Solid\obj\Debug\Solid.csprojAssemblyReference.cache
+E:\C\MVC\Solid\Solid\obj\Debug\Solid.exe
+E:\C\MVC\Solid\Solid\obj\Debug\Solid.pdb
+E:\C\MVC\Solid\Solid\bin\Debug\DCP.dll
+E:\C\MVC\Solid\Solid\bin\Debug\ISP.dll
+E:\C\MVC\Solid\Solid\bin\Debug\LCP.dll
+E:\C\MVC\Solid\Solid\bin\Debug\OCP.dll
+E:\C\MVC\Solid\Solid\bin\Debug\SRP.dll
+E:\C\MVC\Solid\Solid\bin\Debug\DCP.pdb
+E:\C\MVC\Solid\Solid\bin\Debug\ISP.pdb
+E:\C\MVC\Solid\Solid\bin\Debug\LCP.pdb
+E:\C\MVC\Solid\Solid\bin\Debug\OCP.pdb
+E:\C\MVC\Solid\Solid\bin\Debug\SRP.pdb
+E:\C\MVC\Solid\Solid\obj\Debug\Solid.csproj.CopyComplete

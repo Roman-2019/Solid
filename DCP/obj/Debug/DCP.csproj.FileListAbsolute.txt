@@ -1,0 +1,5 @@
+E:\C\MVC\Solid\DCP\bin\Debug\DCP.dll
+E:\C\MVC\Solid\DCP\bin\Debug\DCP.pdb
+E:\C\MVC\Solid\DCP\obj\Debug\DCP.dll
+E:\C\MVC\Solid\DCP\obj\Debug\DCP.pdb
+E:\C\MVC\Solid\DCP\obj\Debug\DCP.csprojAssemblyReference.cache
